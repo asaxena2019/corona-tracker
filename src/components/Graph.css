@@ -1,0 +1,9 @@
+.Graph {
+    text-align: center;
+    position: relative;
+    background-color: white;
+}
+
+canvas {
+    margin: 0 auto;
+}
